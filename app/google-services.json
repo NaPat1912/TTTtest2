@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "37747042297-fi08oahmfkom9817ffchlor85vp9hrpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tisconet.ttttest",
+            "certificate_hash": "c77150ff9bafb2507310a6528347edaf49d67f3e"
+          }
+        },
+        {
           "client_id": "37747042297-q93qpg08qnk7doiec1tdhp2mv69j7h8g.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
